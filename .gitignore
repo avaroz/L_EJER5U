@@ -1,1 +1,4 @@
+.gitignore
 old
+/js/Huila_Colegios.js
+/js/js_map.js
